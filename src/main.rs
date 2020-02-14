@@ -5,6 +5,7 @@ fn main() {
 
 fn hello_world(){
     println!("Hello original world!rusttest1.");
+    println!("Hello new world!guessgame1.");
 }
 
 use rand::Rng;
