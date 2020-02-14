@@ -1,5 +1,10 @@
 fn main() {
+    hello_world();
     guessing_game();
+}
+
+fn hello_world(){
+    println!("Hello original world!rusttest1.");
 }
 
 use rand::Rng;
